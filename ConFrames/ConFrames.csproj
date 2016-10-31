@@ -35,6 +35,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleWindow.cs" />
     <Compile Include="Desktop.cs" />
     <Compile Include="Interop.cs" />
     <Compile Include="PaintContext.cs" />
